@@ -1,0 +1,19 @@
+.chess-board{
+    width: 900px;
+    margin: 0 auto;
+    border: 5px solid blue;
+    display: flex;
+    padding: 20px;
+    background-color: skyblue;
+    justify-content: center;
+}
+.white-box{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+}
+.black-box{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+}
